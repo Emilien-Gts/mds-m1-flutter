@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb2fcc34-2d83-4971-8f51-af0c6da2872a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/examples/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/examples/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/examples/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/examples/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/app/src/main/kotlin/com/example/flutter_app/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/app/src/main/kotlin/com/example/flutter_app/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/examples/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/page/asset_demo_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/page/asset_demo_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/page/expand_demo_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/page/expand_demo_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/page/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/page/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/page/padding_demo_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/page/padding_demo_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/app/src/main/kotlin/com/example/first_app/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/app/src/main/kotlin/com/example/first_app/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_app/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/app/src/main/kotlin/com/example/prototyping/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/app/src/main/kotlin/com/example/prototyping/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototyping/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/prototyping/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/main/kotlin/com/example/stless_stfull_demo/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/main/kotlin/com/example/stless_stfull_demo/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/lib/page/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/lib/page/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/lib/widget/my_little_square.dart" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/lib/widget/my_little_square.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stless_stfull_demo/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/stless_stfull_demo/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k0W7wSslMfUA8GVKxeZ0pRWX1P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb2fcc34-2d83-4971-8f51-af0c6da2872a" name="Default Changelist" comment="" />
+      <created>1604837825540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604837825540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604837846448">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604837846448" />
+  </component>
+</project>
